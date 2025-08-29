@@ -20,3 +20,7 @@ The game includes smooth controls, apple generation, score tracking, and game-ov
 
 ## 📸 Screenshots
 ![SnakeGame Screenshot](SnakeGame_Screenshot.png)
+
+## 🛠️ Built With
+* Java SE 8+
+* Swing (javax.swing, java.awt)
