@@ -19,4 +19,4 @@ The game includes smooth controls, apple generation, score tracking, and game-ov
 * ➡️ Right Arrow → Move Right
 
 ## 📸 Screenshots
-[SnakeGame screenshot.png]
+![SnakeGame Screenshot](SnakeGame screenshot.png)
